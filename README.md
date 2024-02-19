@@ -26,4 +26,4 @@ Retrieves files from the internet using HTTP, HTTPS, or FTP.
 Example: wget https://example.com/file.zip
 10.find:
 Search for files in a directory hierarchy.                 
-                                            
+find file.txt
