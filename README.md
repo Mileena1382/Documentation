@@ -1,8 +1,8 @@
                                             Linux Commands
-1.cp:  Copy
+##1.cp:  Copy
 Copies files or directories from one location to another. 
 Example: cp file1.txt /path/to/destination
-2.mv: Move.
+##2.mv: Move.
 Moves files or directories from one location to another. 
 Example: mv file1.txt /path/to/destination
 3.touch:
