@@ -27,5 +27,5 @@ Example: wget https://example.com/file.zip
 10.find:
 Search for files in a directory hierarchy.                 
 find file.txt
-###11. man top
-display manual
+11. man top
+display manual page
