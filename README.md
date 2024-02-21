@@ -14,7 +14,7 @@ Example: cat file.txt
 Searches for patterns/words in files. Example: grep "pattern" file.txt(This searches for word pattern and print it)
 6.nano:
 Text editor. Opens a text editor for editing files.
-Example: nano file.txt
+Example: nano file.txt/n
 7.echo:
 Prints text or variables to the terminal.
 Example: echo "Hello, World!"
