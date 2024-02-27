@@ -30,3 +30,5 @@
 * Example: find file.txt
 11.  man top
 * display manual page
+12. find * -name file.txt
+* find file from any folder
