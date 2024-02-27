@@ -32,3 +32,11 @@
 * display manual page
 12. find * -name file.txt
 * find file from any folder
+13. pwd
+* prints current working directory
+14. rm
+* Removes files or directories.
+* Example: rm [options] file/directory
+* Options:
+* -r: Recursively remove directories and their contents.
+* -f: Forcefully remove files or directories without confirmation.
